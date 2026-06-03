@@ -20,6 +20,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "HealthAI Decision Support Systems",
   description: "Rural healthcare triage and AI diagnostic assistance.",
+  verification: {
+    google: "pkqNyiBqh938PjjmPe-G0wmJu2LBH8YkMCj6D32DCtQ",
+  },
 };
 
 export default function RootLayout({
